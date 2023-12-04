@@ -1,0 +1,10 @@
+[
+    {
+        "weather": true,
+        "news":true,
+        "linkedin": true,
+        "blog": true,
+        "mlo": true,
+        "traffic": true
+    }
+]
