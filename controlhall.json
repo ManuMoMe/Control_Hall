@@ -6,7 +6,7 @@
         "blog": true,
         "mlo": true,
         "traffic": true,
-        "quiz":false,
+        "quiz":true,
         "announce":false
     }
 ]
