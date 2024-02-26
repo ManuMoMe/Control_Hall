@@ -5,6 +5,8 @@
         "linkedin": true,
         "blog": true,
         "mlo": true,
-        "traffic": true
+        "traffic": true,
+        "quiz":true,
+        "announce":false
     }
 ]
